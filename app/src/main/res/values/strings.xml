@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Sukarna Jana</string>
+    <string name="hello_viewers">Hello Viewers</string>
+    <string name="this_is_my_first_android_app_using_kotlin">This Is My First Android App Using Kotlin</string>
+    <string name="calendar">....Calendar....</string>
+    <string name="i_am_sukarna_jana">I Am Sukarna Jana</string>
 </resources>
